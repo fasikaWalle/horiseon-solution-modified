@@ -9,5 +9,5 @@
 * putting css in a structural way 
 * reduce the css code by removing similar attributes
 * adding descriptive comments
-### Github Repo:
-### Live site URL: 
+### Github Repo:https://github.com/fasikaWalle/horiseon-solution-modified
+### Live site URL:https://fasikawalle.github.io/horiseon-solution-modified/ 
