@@ -34,6 +34,7 @@ CSS
 * removing unused classses.
 * grouped the css in a structural way
 * reduce the css code by removing similar attributes
+*meta description added for website optimization by including keywords
 ## License
 
 copyright (c) 2019 Horiseon Social Solution Services, Inc.
