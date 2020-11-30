@@ -1,4 +1,4 @@
-these are list of works that are applied to the project
+these are list of works that are applied to this project
 -------------------------------------------------------------
 # give descriptive title
 # include semantic html elements such as main, header,nav, aside,article,footer.
