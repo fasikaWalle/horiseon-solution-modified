@@ -8,7 +8,7 @@
 
 ## Table of content
 
-1. setup
+1. URL of the project
 
 2. Technologies used
 
@@ -18,7 +18,7 @@
 
 4. screenshots
 
-### setup
+### URL of the project
 ### Github Repo:https://github.com/fasikaWalle/horiseon-solution-modified
 ### Live site URL:https://fasikawalle.github.io/horiseon-solution-modified/ 
 
