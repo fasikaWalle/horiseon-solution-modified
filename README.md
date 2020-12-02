@@ -18,7 +18,7 @@
 
 4. screenshots
 
-#### URL of the project
+### URL of the project
 ### Github Repo:https://github.com/fasikaWalle/horiseon-solution-modified
 ### Live site URL:https://fasikawalle.github.io/horiseon-solution-modified/ 
 
