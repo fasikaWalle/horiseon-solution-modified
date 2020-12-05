@@ -11,11 +11,9 @@
 1. URL of the project
 
 2. Technologies used
-
+3. Installation
 3. features
-
 3. License
-
 4. screenshots
 
 ### URL of the project
@@ -25,6 +23,8 @@
 ## Technologies used
 HTML
 CSS
+## Installation
+
 
 ### Features
  * HTML Structure:change non-semantic containers into semantic html elements 
