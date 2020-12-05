@@ -24,7 +24,7 @@
 HTML
 CSS
 ## Installation
-
+*Setting ---> github pages --> select your branch --->save 
 
 ### Features
  * HTML Structure:change non-semantic containers into semantic html elements 
