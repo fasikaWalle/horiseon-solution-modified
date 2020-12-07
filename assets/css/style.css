@@ -79,14 +79,14 @@ header nav ul li a {
   margin-left: 20px;
 }
 
-.article-container article div {
+.article-container  div {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   background-color: #0072bb;
 }
 
-.article-container article div img {
+.article-container  img {
   max-height: 200px;
 }
 
@@ -100,7 +100,7 @@ header nav ul li a {
   margin-left: 25px;
 }
 
-.article-container article div h2 {
+.article-container  h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
